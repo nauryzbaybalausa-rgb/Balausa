@@ -25,7 +25,6 @@
 
 7 испытание:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/77d9a937-c5a1-425a-b86c-2ddbb1bfa891" />
-Я убрала провод Echo между HC-SR04 и Arduino, чтобы показать как работат. Затем вернула провод обратно.
 
 8 испытание:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d6a7a6cb-bb1b-4fef-a423-910605f53a9b" />

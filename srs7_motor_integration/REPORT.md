@@ -41,8 +41,10 @@
 
 Испытания и таблица:
 
-1 испытание:
 <img width="882" height="454" alt="Tablitsa ispitanii" src="https://github.com/user-attachments/assets/70caccee-6e77-4032-a8a1-ddd853a7ef6d" />
+
+1 испытание:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/deb1b271-1ba8-4c31-acfa-48c80117b188" />
 
 2 испытание:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dc8fdd55-05ba-4e06-b17a-7fed35788dda" />

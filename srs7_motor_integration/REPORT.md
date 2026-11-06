@@ -149,8 +149,12 @@ digitalWrite(motorReversePin, HIGH);
 
 ## Навигация по проекту
 
-Исходный код: [sketch_baseline.ino](./code/sketch_baseline.ino))
+Исходный код: [sketch_baseline.ino](./code/sketch_baseline.ino)
+
 Финальная версия кода: [sketch_final.ino](./code/sketch_final.ino)
+
 Журнал работы: [notebook.md](./notebook.md)
+
 Скриншоты и доказательства: [screenshots.md](./screenshots.md)
+
 Файлы симулятора: [Перейти в папку simulator](./simulator)

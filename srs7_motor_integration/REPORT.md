@@ -147,3 +147,10 @@ digitalWrite(motorReversePin, HIGH);
 
 Силовая развязка: Разделение цепей питания логики (5В от Arduino) и силового привода (мотора), а также организация единой шины земли (GND), чтобы избежать скачков напряжения и зависаний микроконтроллера.
 
+## Навигация по проекту
+
+Исходный код: [sketch_baseline.ino](./code/sketch_baseline.ino))
+Финальная версия кода: [sketch_final.ino](./code/sketch_final.ino)
+Журнал работы: [notebook.md](./notebook.md)
+Скриншоты и доказательства: [screenshots.md](./screenshots.md)
+Файлы симулятора: [Перейти в папку simulator](./simulator)

@@ -157,4 +157,4 @@ digitalWrite(motorReversePin, HIGH);
 
 Скриншоты и доказательства: [screenshots.md](./screenshots.md)
 
-Файлы симулятора: [Перейти в папку simulator](./simulator)
+Файлы симулятора: [simulator](./simulator)

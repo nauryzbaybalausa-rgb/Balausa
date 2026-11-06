@@ -28,3 +28,15 @@
 
 8 испытание:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d6a7a6cb-bb1b-4fef-a423-910605f53a9b" />
+
+3 этап:
+
+1. Неисправность:
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/692f735e-d33e-4bc6-9143-830ed2b81aca" />
+
+
+2. Неисправность:
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cbe71abf-9b3d-4fe1-86c2-0b582c3b2c9e" />
+

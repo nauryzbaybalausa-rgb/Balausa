@@ -40,3 +40,6 @@
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cbe71abf-9b3d-4fe1-86c2-0b582c3b2c9e" />
 
+4 этап. Улучшенный код:
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5f0baf09-1c73-49cf-81f6-2057cd7eb70f" />
